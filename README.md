@@ -1,5 +1,5 @@
 # Hangman
-Command Line based hangman with save and loading capability
+Command Line based hangman with save and save loading capability
  
 # Insturctions
 Download the hangman.rb and 5desk.txt file
